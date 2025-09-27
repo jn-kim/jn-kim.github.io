@@ -114,8 +114,9 @@ strong {
 }
 
 .name {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif !important;
+  font-size: 32px !important;
+  font-weight: normal !important;
   display: block;
   margin-bottom: 15px;
   padding-top: 20px;
@@ -123,8 +124,9 @@ strong {
 }
 
 .heading {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif !important;
+  font-size: 22px !important;
+  font-weight: normal !important;
   display: block;
   margin-top: 50px;
   margin-bottom: 10px;
