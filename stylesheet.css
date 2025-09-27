@@ -109,14 +109,13 @@ a {
 body {
   margin: 0;
   padding: 0;
-  margin-top: 60px; /* 페이지 전체를 조금 아래로 */
+  margin-top: 60px;
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
 }
-
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
@@ -127,7 +126,7 @@ papertitle {
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
-  font-weight: normal;   /* bold 제거 */
+  font-weight: bold;
   display: block;
   margin-bottom: 15px;
   padding-top: 20px;
@@ -137,13 +136,12 @@ name {
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 22px;
-  font-weight: normal;   /* bold 제거 */
+  font-weight: bold;
   display: block;
-  margin-top: 50px;      /* Publications 위치 더 아래 */
+  margin-top: 50px;
   margin-bottom: 10px;
   text-align: left;
 }
-
 
 /* -------------------- Images -------------------- */
 img {
@@ -152,9 +150,9 @@ img {
 }
 
 .profile-photo {
-  border-radius: 50%; /* 완전한 원형 */
+  border-radius: 50%;
   width: 80%;
-  max-width: 220px; /* 크기 제한 */
+  max-width: 220px;
 }
 
 /* -------------------- Misc -------------------- */
